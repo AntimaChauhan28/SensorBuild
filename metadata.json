@@ -1,0 +1,6 @@
+{
+  "name": "UrjaSetu - Smart Indian Building Energy & Digital Twin Platform",
+  "description": "AI-driven occupancy-aware HVAC, digital twin, FDD, solar-BESS optimization, and ECBC compliance platform engineered for Indian building stock and climate zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
